@@ -1,0 +1,15 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Obsidian 回收站
+.trash/
+
+# Obsidian 工作区状态（频繁变更，极易冲突）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+
+# Obsidian 缓存与索引
+.obsidian/cache/
+.obsidian/graph.json
